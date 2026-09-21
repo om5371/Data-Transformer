@@ -92,6 +92,14 @@ The project illustrates practical execution of complex table joins, scalar and c
 
 ---
 
+## 🎬 Project Demonstration
+  <a href="">
+    <img src="https://img.shields.io/badge/🎬%20Project%20Video-success?style=for-the-badge">
+  </a>
+</p>
+
+---
+
 ## 💻 Python Execution Script
 
 This executable Python script sets up an in-memory SQLite database, populates the schema, and executes the 17 business queries.
@@ -236,3 +244,5 @@ def run_pipeline():
 
 if __name__ == "__main__":
     run_pipeline()
+
+
